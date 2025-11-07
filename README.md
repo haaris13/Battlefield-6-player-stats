@@ -6,7 +6,7 @@ Une application Python moderne permettant d’afficher les statistiques des joue
 
 ## 🖼️ Aperçu
 
-![Capture d’écran](./bf6stats.png)
+![Capture d’écran](./bf6stats.PNG)
 
 ---
 
