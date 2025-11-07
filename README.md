@@ -25,7 +25,7 @@ Une application Python moderne permettant d’afficher les statistiques des joue
 
 ## ⚙️ Installation
 
-### 1. Cloner le dépôt
+### 1. Cloner le dépôt ou télécharger le .exe
 ```bash
 git clone https://github.com/<ton-nom-utilisateur>/battlefield6-stats.git
 cd battlefield6-stats
