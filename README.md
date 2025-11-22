@@ -35,6 +35,7 @@ Développé en Python + PyQt5, avec interface moderne et fonctionnalités avanc�
 - Activation à l’aide d’une clé unique
 - Vérification en ligne via Pastebin (RAW)
 - Stockage local sécurisé (`license.json`)
+- Test licence BF6P-1A9D-7C3F-29E4
 
 ---
 
