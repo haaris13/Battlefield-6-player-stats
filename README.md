@@ -3,7 +3,27 @@ Application desktop complète permettant de consulter, analyser et visualiser le
 Développé en Python + PyQt5, avec interface moderne et fonctionnalités avancées.
 
 ---
-![Capture d’écran](./bf6stats.PNG)
+Voici 4 captures d’écran de l’interface (images présentes à la racine) :
+
+### 🖼️ Aperçu général
+<p align="center">
+  <img src="./1.png" width="700">
+</p>
+
+### 📊 Dashboard & Graphiques
+<p align="center">
+  <img src="./2.png" width="700">
+</p>
+
+### 🧠 Analyse avancée
+<p align="center">
+  <img src="./3.png" width="700">
+</p>
+
+### 🛡️ Système de licence & Activation
+<p align="center">
+  <img src="./4.png" width="700">
+</p>
 ## ✨ Fonctionnalités principales
 
 ### 🧩 Interface moderne
@@ -38,27 +58,7 @@ Développé en Python + PyQt5, avec interface moderne et fonctionnalités avanc�
 - Test licence BF6P-1A9D-7C3F-29E4
 ## 📸 Aperçu de l’application
 
-Voici 4 captures d’écran de l’interface (images présentes à la racine) :
 
-### 🖼️ Aperçu général
-<p align="center">
-  <img src="./1.png" width="700">
-</p>
-
-### 📊 Dashboard & Graphiques
-<p align="center">
-  <img src="./2.png" width="700">
-</p>
-
-### 🧠 Analyse avancée
-<p align="center">
-  <img src="./3.png" width="700">
-</p>
-
-### 🛡️ Système de licence & Activation
-<p align="center">
-  <img src="./4.png" width="700">
-</p>
 ---
 
 ## 📦 Installation
